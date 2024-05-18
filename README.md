@@ -11,7 +11,7 @@ Skills: WordPress / Wix / Squarespace / JS / HTML / CSS
 
 </div>
 
-- 🔭 I’m currently learning Web Design & fontend web development from [CodemanBD](https://codemanbd.com/) & [Hablu Programmer](https://www.hablu-programmer.com/)
+- 🔭 I’m currently learning Web Design & frontend web development from [CodemanBD](https://codemanbd.com/) & [Hablu Programmer](https://www.hablu-programmer.com/)
 
 - 🌱 I’m currently learning **HTML5, CSS3, JS**
 
