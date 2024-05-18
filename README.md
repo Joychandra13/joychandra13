@@ -56,13 +56,6 @@ Skills: WordPress / Wix / Squarespace / Java / BOOTSTRAP / REACT / JS / HTML / C
 
 <br/>
 
-## Best Repo -
-
-[![Java Projects](https://github-readme-stats.vercel.app/api/pin/?username=Joychandra13&repo=Java-Project&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Joychandra13/Java-Project)
-[![100+ C Problems](https://github-readme-stats.vercel.app/api/pin/?username=Joychandra13&repo=100_plus_C_Problems&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Joychandra13/100_plus_C_Problems)
-[![Front End Projects](https://github-readme-stats.vercel.app/api/pin/?username=Joychandra13&repo=front_end_projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Joychandra13/front_end_projects)
-[![Weblitical](https://github-readme-stats.vercel.app/api/pin/?username=Joychandra13&repo=weblitical&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Joychandra13/weblitical)
-
 <p align="left">
   <a href="https://github.com/Joychandra13?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
@@ -85,7 +78,7 @@ Skills: WordPress / Wix / Squarespace / Java / BOOTSTRAP / REACT / JS / HTML / C
   <br/>
 </a>
 
-![Harun's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Joychandra13&custom_title=Harun's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Joy's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Joychandra13&custom_title=Harun's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 <br/>
 
