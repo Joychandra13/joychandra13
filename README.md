@@ -1,7 +1,7 @@
 ![I am Joychandra13](https://github.com/Joychandra13/Joychandra13/blob/main/code.png)
 
 <h1 align="center">Hi 👋, I'm JOY SHUTRA DHAR</h1>
-<h3 align="center">Programmer | Web Designer</h3>
+<h3 align="center">Web Developer | Web Designer</h3>
 
 <div align="center">
 
