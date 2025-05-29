@@ -11,13 +11,11 @@ Skills: WordPress / Wix / Squarespace / JS / HTML / CSS
 
 </div>
 
-- 🔭 I’m currently learning Web Design & Frontend Web Development from [CodemanBD](https://codemanbd.com/) & [Hablu Programmer](https://www.hablu-programmer.com/)
-
+- 🔭 I’m currently learning Web Design & Frontend Web Development.
+  
 - 🌱 I’m currently learning **HTML5, CSS3, JS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Joychandra13](https://github.com/Joychandra13)
-
-- 💬 Ask me about **HTML5, CSS3, JS**
 
 - 📫 How to reach me **joychandra1414@gmail.com**
 
