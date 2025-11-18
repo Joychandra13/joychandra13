@@ -1,5 +1,28 @@
-<a> 
-    <a href="https://github.com/Joychandra13"><img alt="Joy's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Joychandra13&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="200px" width="49%"/></a>
-  <a href="https://github.com/Joychandra13"><img alt="Joy's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Joychandra13&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="200px" width="49%"/></a>
-  <br/>
-</a>
+
+
+## About Me 
+
+Hi there! I'm <b>Joy ShutraDhar</b>. I'm a Frontend Developer focused on building responsive and user-friendly web interfaces. I work mainly with React, JavaScript, and modern UI tools. I also have basic backend knowledge and experience working with popular CMS platforms like WordPress, Wix, and Squarespace.
+<br/>
+| Skills Overview | Technologies|
+|---|---|
+| **Languages**         | ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)                                                     |
+| **Frontend Technologies** | ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5) ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-333333?style=flat&logo=tailwindcss) ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react) |
+| **Back-End Development** | ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js) ![Express.js](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=express) |
+| **Database**          | ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb) |
+| **Tools & Platforms** | ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github) ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase) ![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code) |
+
+ ## Github Stats
+ 
+| Top Languages | GitHub Stats |
+|:---:|:---:|
+| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joychandra13&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joychandra13&theme=transparent&hide_border=true&include_all_commits=true&count_private=false) |
+
+## Contact
+Feel free to reach out to me or connect with me on
+<div>
+  <a href="https://www.linkedin.com/in/joy-shutradhar/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+  <!-- <a href="https://nur-adnan-chowdhury.web.app"><img src="https://img.shields.io/badge/-Website-47CCCC?style=flat&logo=Google-Chrome&logoColor=white" alt="Website Badge"/></a> -->
+  <a href="https://x.com/Joy_ShutraDhar"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white" alt="Twitter Badge"/></a>
+  <a href="mailto:joychandra1414@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white" alt="Gmail Badge"/></a>
+</div>
