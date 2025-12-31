@@ -1,4 +1,4 @@
-<img src="(https://github.com/Joychandra13/joychandra13/blob/7560ee77c715670517a0a0d43d268f605a86db66/Banner.png)" />
+<img src="https://github.com/Joychandra13/joychandra13/blob/main/Banner.png" />
 
 ## About Me 
 
