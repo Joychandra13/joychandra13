@@ -14,9 +14,7 @@ Hi there! I'm <b>Joy ShutraDhar</b>. I'm a Frontend Developer focused on buildin
 
  ## Github Stats
  
-| Top Languages | GitHub Stats |
-|:---:|:---:|
-| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joychandra13&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joychandra13&theme=transparent&hide_border=true&include_all_commits=true&count_private=false) |
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Joychandra13?cardType=github&theme=github-dark&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)  ![All Languages Used](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Joychandra13&theme=github_dark)
 
 ## Contact
 Feel free to reach out to me or connect with me on
